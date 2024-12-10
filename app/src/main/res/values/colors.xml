@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color -->
+    <color name="colorPrimary">#4EC4E0</color>
+    <!-- Dark primary color -->
+    <color name="colorPrimaryDark">#333333</color>
+    <!-- Accent color -->
+    <color name="colorAccent">#E74C3C</color>
+    <!-- Fondo y texto -->
+    <color name="backgroundColor">#FFFFFF</color>
+    <color name="textColorPrimary">#333333</color>
+</resources>
+
+

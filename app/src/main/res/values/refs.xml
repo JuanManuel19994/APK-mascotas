@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="dog3">Perro3</drawable>
+    <drawable name="dog4">Perro4</drawable>
+    <drawable name="ic_bone_yellow">bone yellow</drawable>
+    <drawable name="dog1">Perro1</drawable>
+    <drawable name="dog2">Perro2</drawable>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Lista de Mascot</string>
+
+    <!-- Activity Titles -->
+    <string name="main_activity_title">Mascot</string>
+    <string name="favorites_activity_title">Favorites</string>
+
+    <!-- Buttons -->
+    <string name="btn_favorites_description">Ver favorites</string>
+
+    <!-- Content Descriptions -->
+    <string name="content_desc_favorite_button">goto para ir a la palatal de favorites</string>
+    <string name="content_desc_rating_icon">Ícono para calificar mascota</string>
+    <string name="content_desc_mascota_image">Image de la mascot</string>
+
+    <!-- Placeholder Text -->
+    <string name="no_favorites_placeholder">No hay mascot favorites aún.</string>
+    <string name="_todo">todo</string>
+</resources>

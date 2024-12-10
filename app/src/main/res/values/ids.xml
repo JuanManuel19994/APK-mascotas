@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imgFoto" type="id">Foto</item>
+    <item name="tvNombre" type="id">Nombre</item>
+    <item name="imgBone" type="id">Bone</item>
+    <item name="tvRaiting" type="id">Raiting</item>
+    <item name="rvFavoritas" type="id">Favoritas</item>
+    <item name="rvMascotas" type="id">Mascotas</item>
+    <item name="imgEstrella" type="id">Estrella</item>
+</resources>
